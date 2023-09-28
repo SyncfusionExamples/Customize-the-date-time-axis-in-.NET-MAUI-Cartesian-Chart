@@ -5,7 +5,7 @@ A quick-start example to help you to customize the date-time axis of the Syncfus
 
 Watch the video: Coming soon...
 
-Documentation: https://help.syncfusion.com/maui/cartesian-charts/axis/types#datetime-axis
+**Documentation:** https://help.syncfusion.com/maui/cartesian-charts/axis/types#datetime-axis
 
 ## <a name="requirements-to-run-the-demo"></a>Requirements to run the demo ##
 
