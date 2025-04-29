@@ -1,9 +1,10 @@
-﻿namespace DateTimeAxisCustomization_MAUI_CartesianChart;
-
-public partial class AppShell : Shell
+﻿namespace DateTimeAxisCustomization_MAUI_CartesianChart
 {
-	public AppShell()
-	{
-		InitializeComponent();
-	}
+    public partial class AppShell : Shell
+    {
+        public AppShell()
+        {
+            InitializeComponent();
+        }
+    }
 }
